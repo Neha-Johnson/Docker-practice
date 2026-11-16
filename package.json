@@ -1,0 +1,14 @@
+
+{
+  "name": "docker-mini-project",
+  "version": "1.0.0",
+  "description": "Containerized Node.js Express Web API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
+
